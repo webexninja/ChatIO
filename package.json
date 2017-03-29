@@ -1,0 +1,16 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+     "mime": "~1.2.7"
+  },
+  "repository":"",
+  "license":"",
+  "main": "server.js",
+  "author": "Shivank Tiwari",
+  "engines":{
+  	"node":"4.2.6"
+  }
+}
